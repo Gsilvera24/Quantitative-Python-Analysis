@@ -11,5 +11,3 @@ The average of the changes in Profit/Losses over the entire period.
 The greatest increase in profits (date and amount) over the entire period.
 
 The greatest decrease in losses (date and amount) over the entire period.
-
-Your resulting analysis should look similar to the following:
