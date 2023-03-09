@@ -29,4 +29,4 @@ Finally , I calculated the average change, maximum change, and minimum change of
 ![alt text](https://github.com/Gsilvera24/Simple-Python-Analysis/blob/main/images/financial_four.png "VS CODE")
 
 
-That's at! Overall, this is a simple overview of budget data. Some months budget was negative and some months positive. This analysis paints a better picture of what happened with the amounts over time. Feel free to use this code if you have similar data!
+And that's that! Overall, this is a simple overview of budget data. Just by looking at the csv file month to month it is difficult to understand what happened over the time period.  This analysis paints a better picture of what happened with the amounts over time. I will next try to visualize the data so we get an even more comprehensive insights. Feel free to use this code if you have similar data!
