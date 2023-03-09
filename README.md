@@ -9,6 +9,8 @@ Python script that analyzes financial records to calculate each of the following
 * The greatest increase in profits (date and amount) over the entire period.
 * The greatest decrease in losses (date and amount) over the entire period.
 
+Specificially, the financial records is a .csv file containing budget data over several years.
+
 Procedure & Screenshots
 ======
 
