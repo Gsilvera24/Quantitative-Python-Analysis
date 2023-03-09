@@ -1,4 +1,4 @@
-ALT-# Financial Analysis Using Python
+### Financial Analysis Using Python
 
 Python script that analyzes financial records to calculate each of the following:
 
