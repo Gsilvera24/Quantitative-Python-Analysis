@@ -21,3 +21,5 @@ After, I simply pointed my path variable to a CSV file named "budget_data" and l
 ![alt text](https://github.com/Gsilvera24/Simple-Python-Analysis/blob/main/images/financial_one.png "VS CODE")
 
 ![alt text](https://github.com/Gsilvera24/Simple-Python-Analysis/blob/main/images/financial_three.png "VS CODE")
+
+![alt text](https://github.com/Gsilvera24/Simple-Python-Analysis/blob/main/images/financial_four.png "VS CODE")
