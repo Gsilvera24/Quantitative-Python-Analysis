@@ -1,3 +1,6 @@
+Financial Analysis using Python
+======
+
 Python script that analyzes financial records to calculate each of the following:
 
 The total number of months included in the dataset.
